@@ -1,0 +1,4 @@
+requests
+pyrogram
+bs4
+python-dotenv
